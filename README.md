@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atqiah-Rahman-Reesha
-- 👀 I’m interested in designing.
+- 👀 I’m interested in web designing.
 - 🌱 I’m currently learning Laravel framework.
 - 💞️ I’m looking to collaborate on a raw php project.
 - 📫 How to reach me through email a.rahman.reesha@gmail.com
